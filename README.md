@@ -89,23 +89,6 @@ lib/
 - Route Arguments ile Product nesnesi aktarımı
 - Geri dönüş değeri ile sepet durumu güncelleme
 
-## 📸 Ekran Görüntüleri
-
-### Ana Sayfa
-
-
-*GridView ile ürün listesi, her ürün kart içinde gösterilir. Sağ üstte sepet ikonu ve ürün sayacı bulunur.*
-
-### Ürün Detay Sayfası
-
-
-*Ürün görseli, başlık, kategori, fiyat, yıldız puanı ve detaylı açıklama. Alt kısımda "Sepete Ekle" butonu.*
-
-### Sepet Bildirimi
-
-
-*Ürün sepete eklendiğinde gösterilen SnackBar bildirimi.*
-
 
 
 ## 🚀 Kullanım
