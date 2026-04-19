@@ -92,21 +92,21 @@ lib/
 ## 📸 Ekran Görüntüleri
 
 ### Ana Sayfa
-![Ana Sayfa](screenshots/home_page.png)
+
 
 *GridView ile ürün listesi, her ürün kart içinde gösterilir. Sağ üstte sepet ikonu ve ürün sayacı bulunur.*
 
 ### Ürün Detay Sayfası
-![Detay Sayfası](screenshots/detail_page.png)
+
 
 *Ürün görseli, başlık, kategori, fiyat, yıldız puanı ve detaylı açıklama. Alt kısımda "Sepete Ekle" butonu.*
 
 ### Sepet Bildirimi
-![Sepet Bildirimi](screenshots/cart_notification.png)
+
 
 *Ürün sepete eklendiğinde gösterilen SnackBar bildirimi.*
 
-> **Not:** Ekran görüntülerini almak için uygulamayı çalıştırın ve `screenshots` klasörüne ekleyin. Detaylı talimatlar için `screenshots/README.md` dosyasına bakın.
+
 
 ## 🚀 Kullanım
 
